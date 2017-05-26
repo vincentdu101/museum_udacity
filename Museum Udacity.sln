@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum Udacity", "Assembly-CSharp-firstpass.csproj", "{8B53FF66-A227-E26A-7C8D-426B0F4A3BEE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum Udacity", "Assembly-CSharp.csproj", "{250A9BC0-B882-B921-A2BB-09959409BF09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum Udacity", "Assembly-CSharp-Editor.csproj", "{6D5DBAE3-9CEA-0DB6-6620-704F88091191}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B53FF66-A227-E26A-7C8D-426B0F4A3BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B53FF66-A227-E26A-7C8D-426B0F4A3BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B53FF66-A227-E26A-7C8D-426B0F4A3BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B53FF66-A227-E26A-7C8D-426B0F4A3BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{250A9BC0-B882-B921-A2BB-09959409BF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{250A9BC0-B882-B921-A2BB-09959409BF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250A9BC0-B882-B921-A2BB-09959409BF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
