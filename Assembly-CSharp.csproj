@@ -155,6 +155,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\HyperLink.cs" />
      <Compile Include="Assets\StreamVideo.cs" />
      <Compile Include="Assets\Udacity\Scripts\Coin.cs" />
      <Compile Include="Assets\Udacity\Scripts\DieAfterSeconds.cs" />
