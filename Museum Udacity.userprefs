@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Scripts/Controller/Internal/Emulator/PhoneEvent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HyperLink.cs">
     <Files>
-      <File FileName="Assets/GoogleVR/Scripts/Controller/Internal/Emulator/PhoneEvent.cs" Line="3142" Column="1" />
+      <File FileName="Assets/HyperLink.cs" Line="19" Column="37" />
+      <File FileName="Assets/GoogleVR/Scripts/Controller/Internal/Emulator/PhoneEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/StreamVideo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

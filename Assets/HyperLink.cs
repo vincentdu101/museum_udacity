@@ -8,7 +8,6 @@ public class HyperLink : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Application.OpenURL ("www.google.com");
 	}
 	
 	// Update is called once per frame
@@ -17,7 +16,6 @@ public class HyperLink : MonoBehaviour {
 	}
 
 	public void goToLink() {
-		Debug.Log ("test");
-		Application.OpenURL ("www.google.com");
+		this.gameObject.SetActive (false);
 	}
 }
